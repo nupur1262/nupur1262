@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/nupur89426124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nupur89426124" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nupur-pahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nupur-pahuja" height="30" width="40" /></a>
- <a href="nupurpahuja1262@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nupurpahuja1262@gmail.com" height="30" width="40" /></a>
+ <a href="nupurpahuja1262@gmail.com" target="blank"><img align="center" src="https://unpkg.com/simple-icons@v6/icons/simpleicons.svg" alt="nupurpahuja1262@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
