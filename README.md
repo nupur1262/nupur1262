@@ -1,7 +1,7 @@
 <img src="https://github.com/nupur1262/nupur1262/blob/main/header.png" alt="nupur1262" />
 
-<h3 align="center">A passionate developer and Blockchain Enthusiast</h3>
 
+<p>I am pursing my Btech in Computer Science (expected to graduate in 2023) from YMCA University of Science and Technology. I am a frontend web developer, enthusiast in Blockchain Development and Machine learning.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nupur1262&label=Profile%20views&color=0e75b6&style=flat" alt="nupur1262" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nupur1262" alt="nupur1262" /></a> </p>
