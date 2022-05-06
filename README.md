@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nupur</h1>
-<img src="https://github.com/nupur1262/nupur1262/commit/700fa1aa252ce6f1efefc5f0ed20946cc76a5a53" alt="nupur1262" />
+<img src="https://github.com/nupur1262/nupur1262/blob/main/header.png" alt="nupur1262" />
 
 <h3 align="center">A passionate developer and Blockchain Enthusiast</h3>
 
