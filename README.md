@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nupur89426124" target="blank"><img src="https://img.shields.io/twitter/follow/nupur89426124?logo=twitter&style=for-the-badge" alt="nupur89426124" /></a> </p>
 -->
-- 📫 How to reach me **nupurpahuja1262@gmail.com**
+- 📫 How to reach me <a href="nupurpahuja1262@gmail.com">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
